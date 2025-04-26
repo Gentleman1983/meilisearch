@@ -4,7 +4,7 @@ plugins {
 }
 
 dependencies {
-    api(project(":utils"))
+    //api(project(":utils"))
 
     implementation(libs.commons.lang3)
     implementation("org.jetbrains.kotlin:kotlin-reflect")
