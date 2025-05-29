@@ -1,6 +1,6 @@
 [versions]
 commons-lang3 = "3.17.0"
-equalsverifier = "3.19.3"
+equalsverifier = "3.19.4"
 hamcrest = "3.0"
 junit5 = "5.12.2"
 kotlin-jvm = "2.1.21"
