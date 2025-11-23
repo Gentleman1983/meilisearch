@@ -1,3 +1,8 @@
 [submodule "advent-of-code-utils"]
 	path = advent-of-code-utils
 	url = git@github.com:Gentleman1983/advent-of-code-utils.git
+	branch = 2025.0.2
+[submodule "advent-of-code"]
+	path = advent-of-code
+	url = git@github.com:Gentleman1983/advent-of-code.git
+	branch = aoc2022
